@@ -131,7 +131,6 @@ html, body {
     letter-spacing: 2px;
     text-align: center;
     margin-top: 0%;
-    width: 1000px;
 }
 
 .about-flex {
@@ -162,7 +161,6 @@ html, body {
     letter-spacing: 2px;
     text-align: center;
     margin-top: 0%;
-    width: 1000px;
 }
 
 
@@ -429,7 +427,7 @@ html, body {
         letter-spacing: 2px;
         text-align: center;
         margin-top: 0%;
-        padding-top: 75px;
+        padding-top: 40px;
         
     }
     
@@ -464,7 +462,7 @@ html, body {
         letter-spacing: 2px;
         text-align: center;
         margin-top: 0%;
-        padding-top: 40px;
+        padding-top: 20px;
     }
     
     .flex-moveit {
@@ -499,7 +497,7 @@ html, body {
         font-family: "Poppins", sans-serif;
         font-weight: 200;
         font-style: normal;
-        font-size: 20px;
+        font-size: 15px;
         color: #153243;
         letter-spacing: 2px;
         text-align: center;
